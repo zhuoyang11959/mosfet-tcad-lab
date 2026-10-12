@@ -1,0 +1,9 @@
+name: devsim-env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - devsim
+  - numpy
+  - matplotlib
+  - jupyter
